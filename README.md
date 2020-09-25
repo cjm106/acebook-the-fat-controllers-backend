@@ -7,6 +7,7 @@ Rails API backend for https://github.com/AndrewHulme/acebook-the-fat-controllers
 ## Technologies used
 
 * Rails
+* PostgreSQL
 * Simple Command gem
 * Bcrypt gem
 * Rack-cors gem
